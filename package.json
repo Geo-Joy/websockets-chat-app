@@ -1,0 +1,26 @@
+{
+  "name": "websockets-chat-app",
+  "version": "1.0.0",
+  "description": "A node.js chat application using websockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geo-Joy/websockets-chat-app.git"
+  },
+  "author": "Geo Joy Vadakkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geo-Joy/websockets-chat-app/issues"
+  },
+  "homepage": "https://github.com/Geo-Joy/websockets-chat-app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
